@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Bhatt</h1>
+<h1 align="center">Prince Bhatt</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princebhatt03&label=Profile%20views&color=0e75b6&style=flat" alt="princebhatt03" /> </p>
