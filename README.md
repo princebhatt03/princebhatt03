@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **princebhatt316@gmail.com**
 
-- 📄 Resume : [https://drive.google.com/file/d/1PwodIXdjUNK8sNxf1jo6Z5xptJP2o5gz/view?usp=drivesdk](https://drive.google.com/file/d/1PwodIXdjUNK8sNxf1jo6Z5xptJP2o5gz/view?usp=drivesdk)
+- 📄 Resume : [Resume Link](https://drive.google.com/file/d/1Wj7VouYeYqAkK0F7DUwXAAPURAY8vYt9/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
