@@ -7,9 +7,7 @@
 
 - 🌱 My Skills : **Java, Git & GitHub, HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB (Full Stack Development)**
 
-- 👨‍💻 All of my projects are available : :at: [https://github.com/princebhatt03](https://github.com/princebhatt03)
-
-- 📝 Portfolio Website : [https://princebhatt03.github.io/Portfolio/](https://princebhatt03.github.io/Portfolio/)
+- 📝 Portfolio Website : [Link](https://princebhatt03.github.io/Portfolio/)
 
 - 📫 How to reach me : **princebhatt316@gmail.com**
 
