@@ -7,8 +7,6 @@
 
 - 📝 **Portfolio Website** : [**Link**](https://princebhatt03.github.io/Portfolio/)
 
-- 🪪 **LinkedIn Profile** : [**Link**](https://www.linkedin.com/in/prince-bhatt-0958a725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 - ✉️ **Mail** : **princebhatt316@gmail.com**
 
 - 📄 **Resume** : [**Link**](https://drive.google.com/file/d/1Wj7VouYeYqAkK0F7DUwXAAPURAY8vYt9/view?usp=drivesdk)
