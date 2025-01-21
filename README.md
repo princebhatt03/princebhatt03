@@ -9,7 +9,7 @@
 
 - 📝 Portfolio Website : [Link](https://princebhatt03.github.io/Portfolio/)
 
--  LinkedIn Profile: [Link](https://www.linkedin.com/in/prince-bhatt-0958a725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🪪 LinkedIn Profile : [Link](https://www.linkedin.com/in/prince-bhatt-0958a725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 📫 How to reach me : **princebhatt316@gmail.com**
 
