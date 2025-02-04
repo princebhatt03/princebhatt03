@@ -9,7 +9,7 @@
 
 - ✉️ **Mail** : **princebhatt316@gmail.com**
 
-- 📄 **Resume** : [**Link**](https://drive.google.com/file/d/1iSJS_tqA1Xgy6xRJ0C1y3DvBl1Y37mCu/view?usp=drivesdk)
+- 📄 **Resume** : [**Link**](https://drive.google.com/file/d/1kxTAFq9a28CH9pyCLPEcIABDstpuPxuI/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
