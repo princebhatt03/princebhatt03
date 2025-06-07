@@ -1,16 +1,29 @@
-### <h1 align="center">Prince Bhatt</h1>
-### <h3 align="center">Full Stack Web Developer | Freelancer | IoT Engineer</h3>
+<!-- Typing SVG Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Prince+Bhatt;Full+Stack+Web+Developer;Freelancer+%7C+IoT+Engineer;Always+Learning+%F0%9F%93%9A&center=true&width=500&height=50" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princebhatt03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;•&nbsp;
+  <a href="https://github.com/princebhatt03?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/princebhatt03?color=236ad3&label=Followers&logo=github&logoColor=white&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 📌 About Me
+## 👨‍🎓 About Me
 
-🎓 Recent B.Tech Graduate in Internet of Things (IoT) from Samrat Ashok Technological Institute, Vidisha (2025)  
-💻 Full Stack Web Developer with 2+ years of experience in MERN stack  
-🚀 Passionate freelancer delivering scalable and user-focused web solutions  
-🔗 Portfolio: [Visit Here](https://princebhatt03.github.io/Portfolio/)
+🎓 **Recent B.Tech Graduate in Internet of Things (IoT)** from **Samrat Ashok Technological Institute**  
+📍 Vidisha, Madhya Pradesh | **Graduated: June 2025**  
+💼 **Freelance Full Stack Web Developer** with **2+ years** of experience  
+🛠 Skilled in **JavaScript, React, Node.js, Express, MongoDB, SQL**  
+🌐 Developed and deployed dynamic web applications solving real-world problems  
+🚀 Passionate about building scalable software, exploring IoT systems, and delivering meaningful user experiences  
 
 ---
+
 
 ## 💼 Work Experience
 
