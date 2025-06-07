@@ -26,7 +26,7 @@
 | Company               | Role                    | Location          | Duration            | Description                                                                 |
 |-----------------------|-------------------------|-------------------|----------------------|-----------------------------------------------------------------------------|
 | AUXES IT Solutions    | Full Stack Developer Intern | Bhopal, India      | Dec 2024 – May 2025  | Built company website, worked with production APIs, debugging, and deployment |
-| Quasar Digital Solutions | Web Developer Intern     | Bhopal, India      | June 2023 – Aug 2023 | Built responsive UIs, worked on internal tools and Tailwind CSS based UI    |
+| Quasar Digital Solutions | Web Developer Intern     | Bhopal, India      | Feb 2023 – May 2023 | Built responsive UIs, worked on internal tools and Tailwind CSS based UI    |
 
 ---
 
@@ -87,7 +87,7 @@
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhatt03&layout=compact&theme=github_dark" alt="Top Languages" />
     <br/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=princebhatt03&theme=dracula&hide_border=true" alt="Contribution Graph"/>
+<!--     <img src="https://activity-graph.herokuapp.com/graph?username=princebhatt03&theme=dracula&hide_border=true" alt="Contribution Graph"/> -->
   </p>
 </details>
 
