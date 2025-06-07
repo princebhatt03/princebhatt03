@@ -81,7 +81,7 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=princebhatt03&theme=onedark" alt="Trophies" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=princebhatt03&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=princebhatt03&show_icons=true&theme=github_dark" alt="GitHub Stats" /> -->
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=princebhatt03&theme=github-dark" alt="GitHub Streak" />
     <br/>
