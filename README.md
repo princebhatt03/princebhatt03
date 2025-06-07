@@ -95,6 +95,8 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/c143fd93-bdf7-479b-bbc2-2704c8c20a1e)
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif autoplay" />
 </p>
