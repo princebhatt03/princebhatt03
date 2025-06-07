@@ -25,7 +25,7 @@
 
 | Company               | Role                    | Location          | Duration            | Description                                                                 |
 |-----------------------|-------------------------|-------------------|----------------------|-----------------------------------------------------------------------------|
-| AUXES IT Solutions    | Full Stack Developer Intern | Bhopal, India      | Jan 2024 – Mar 2024  | Built company website, worked with production APIs, debugging, and deployment |
+| AUXES IT Solutions    | Full Stack Developer Intern | Bhopal, India      | Dec 2024 – May 2025  | Built company website, worked with production APIs, debugging, and deployment |
 | Quasar Digital Solutions | Web Developer Intern     | Bhopal, India      | June 2023 – Aug 2023 | Built responsive UIs, worked on internal tools and Tailwind CSS based UI    |
 
 ---
