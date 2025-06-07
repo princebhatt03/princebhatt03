@@ -72,7 +72,7 @@
 
 ## 📄 Download Resume
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/your-drive-link)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1_m6KJl_CA8WB-9lrkr9RtjeUPQLLk5mo/view)
 
 ---
 
