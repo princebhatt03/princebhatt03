@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- Typing SVG Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Prince+Bhatt;Full+Stack+Web+Developer;IoT+Enthusiast;Always+Learning...&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Prince+Bhatt;Full+Stack+Web+Developer;Freelancer+%7C+IoT+Engineer;Always+Learning+%F0%9F%93%9A&center=true&width=500&height=50" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,45 +13,65 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 **Recent B.Tech Graduate (Internet of Things)** — Samrat Ashok Technological Institute  
-  CGPA 7.19 &nbsp;|&nbsp; Class of June 2025  
-- 🛠 **Full Stack Web Developer** with **2+ years** building scalable, real-time apps using **React, Node.js, Express & MongoDB**.  
-- 🌐 **Freelancer & Intern** — delivered production features at **Quasar Digital Solutions** and **AUXES IT Solutions**, working on API design, debugging, and cloud deployments.  
-- 🧠 Always experimenting with new tech, from **IoT** prototypes to **AI-enabled** web features.  
+## 👨‍🎓 About Me
+
+🎓 **Recent B.Tech Graduate in Internet of Things (IoT)** from **Samrat Ashok Technological Institute**  
+📍 Vidisha, Madhya Pradesh | **Graduated: June 2025**  
+💼 **Freelance Full Stack Web Developer** with **2+ years** of experience  
+🛠 Skilled in **JavaScript, React, Node.js, Express, MongoDB, SQL**  
+🌐 Developed and deployed dynamic web applications solving real-world problems  
+🚀 Passionate about building scalable software, exploring IoT systems, and delivering meaningful user experiences  
+
+---
+
+## 🧑‍💼 Work Experience
+
+### 🚀 **Full Stack Developer Intern** — AUXES IT Solutions  
+📍 Bhopal, India | 🗓 Jan 2024 – Mar 2024  
+- Worked on real-time APIs and UI components  
+- Contributed to **production-level tasks**, debugging, and deployment  
+- Developed the **official company website**: [api.auxes.in](https://api.auxes.in)  
+
+### 🌐 **Web Development Intern** — Quasar Digital Solutions  
+📍 Bhopal, India | 🗓 June 2023 – Aug 2023  
+- Collaborated on internal tools and modern web interfaces  
+- Gained hands-on experience with **Bootstrap**, **Tailwind CSS**, and REST APIs  
+- Strengthened ability to work independently and meet real-world deadlines  
 
 ---
 
 ## 🚀 Projects
 
 | Project | Stack & Highlights | Live / Demo |
-|---------|-------------------|-------------|
-| **QuickPick – E-Commerce** | MERN • Payment Gateway • Admin & User dashboards | <https://quick-pick-5e6b.onrender.com> |
-| **Pizzeria – Real-Time Pizza Delivery** | Node, Express, MongoDB • WebSockets for live order tracking • Admin panel | <https://pizza-ria.onrender.com> |
-| **AUXES IT Company Site** | Modern React UI • Responsive design • First production deployment during internship | <https://api.auxes.in> |
-| **Portfolio** | Vanilla JS & CSS animations • Showcases work & resume | <https://princebhatt03.github.io/Portfolio/> |
+|--------|---------------------|-------------|
+| **QuickPick – E-Commerce** | MERN Stack • Payment Gateway • Cart System • Admin Panel | [quick-pick-5e6b.onrender.com](https://quick-pick-5e6b.onrender.com) |
+| **Pizzeria – Real-Time Pizza Ordering** | Node.js, Express, MongoDB • Live WebSockets for orders | [pizza-ria.onrender.com](https://pizza-ria.onrender.com) |
+| **AUXES IT Company Site** | React • Responsive UI • First production deployment | [api.auxes.in](https://api.auxes.in) |
+| **Portfolio Website** | Vanilla JS + CSS animations • Resume showcase | [princebhatt03.github.io/Portfolio](https://princebhatt03.github.io/Portfolio) |
 
 ---
 
-## 🛠 Tech Stack
-### Languages & Frameworks
+## 💻 Tech Stack
+
+### 🔤 Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,express,html,css" />
 </p>
 
-### Databases & Cloud
+### 🛢 Databases & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp" />
 </p>
 
-### Tools & Platforms
+### 🧰 Tools & Dev Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,photoshop,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,photoshop,vscode,render" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princebhatt03&theme=onedark&margin-w=10&no-frame=true" />
   <br />
@@ -65,6 +85,7 @@
 ---
 
 ## 🤝 Connect With Me
+
 <p align="center">
   <a href="mailto:princebhatt316@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/prince-bhatt-0958a725a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -75,7 +96,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" autoplay width="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif autoplay" />
 </p>
 
-<p align="center">✨ Thanks for visiting! ✨</p>
+<p align="center">
+  <b><i>“Click, Cart, Conquer.”</i></b> — Thank you for stopping by!
+</p>
