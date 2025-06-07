@@ -14,7 +14,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 **B.Tech (Internet of Things)** — Samrat Ashok Technological Institute  
+- 🎓 **Recent B.Tech Graduate (Internet of Things)** — Samrat Ashok Technological Institute  
   CGPA 7.19 &nbsp;|&nbsp; Class of June 2025  
 - 🛠 **Full Stack Web Developer** with **2+ years** building scalable, real-time apps using **React, Node.js, Express & MongoDB**.  
 - 🌐 **Freelancer & Intern** — delivered production features at **Quasar Digital Solutions** and **AUXES IT Solutions**, working on API design, debugging, and cloud deployments.  
@@ -75,7 +75,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" autoplay width="300" alt="coding gif" />
 </p>
 
-<p align="center">✨ <i>“Click, Cart, Conquer.”</i> Thanks for visiting! ✨</p>
+<p align="center">✨ Thanks for visiting! ✨</p>
