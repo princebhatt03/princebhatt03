@@ -1,6 +1,7 @@
 <!-- Typing SVG Banner -->
+<h1 align="center">Prince Bhatt</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Prince+Bhatt;Full+Stack+Web+Developer;Freelancer+%7C+;Always+Learning+%F0%9F%93%9A&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Freelancer+%7C+;Always+Learning+%F0%9F%93%9A&center=true&width=500&height=50" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -37,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,express,html,css" />
 </p>
 
-### 🛢 Databases & Cloud
+### ☁ Databases & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp" />
 </p>
