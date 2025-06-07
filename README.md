@@ -96,7 +96,7 @@
 ---
 
 <p align="center">
-  <video src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" autoplay loop muted width="350" alt="coding gif autoplay" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif autoplay" />
 </p>
 
 <p align="center">
