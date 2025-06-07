@@ -75,8 +75,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princebhatt03&theme=onedark&margin-w=10&no-frame=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=princebhatt03&show_icons=true&theme=github_dark&hide_border=true" />
-  <br />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=princebhatt03&show_icons=true&theme=github_dark&hide_border=true" />
+  <br /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=princebhatt03&theme=github-dark&hide_border=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhatt03&layout=compact&theme=github_dark&hide_border=true" />
@@ -96,9 +96,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif autoplay" />
+  <video src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" autoplay loop muted width="350" alt="coding gif autoplay" />
 </p>
 
 <p align="center">
-  <b><i>“Click, Cart, Conquer.”</i></b> — Thank you for stopping by!
+  Thank you for stopping by!
 </p>
