@@ -86,6 +86,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=princebhatt03&theme=github-dark" alt="GitHub Streak" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhatt03&layout=compact&theme=github_dark" alt="Top Languages" />
+    <br/>
+    <img src="https://github-contribution-graph.ezra.codes/api?username=princebhatt03&bg_color=000000&color=1f6feb&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
   </p>
 </details>
 
