@@ -1,14 +1,11 @@
 <!-- Typing SVG Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Prince+Bhatt;Full+Stack+Web+Developer;Freelancer+%7C+IoT+Engineer;Always+Learning+%F0%9F%93%9A&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Prince+Bhatt;Full+Stack+Web+Developer;Freelancer+%7C+;Always+Learning+%F0%9F%93%9A&center=true&width=500&height=50" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=princebhatt03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;•&nbsp;
-  <a href="https://github.com/princebhatt03?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/princebhatt03?color=236ad3&label=Followers&logo=github&logoColor=white&style=flat" />
-  </a>
 </p>
 
 ---
@@ -34,13 +31,22 @@
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
-**Languages:** JavaScript, Java, HTML, CSS  
-**Frontend:** React.js, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**Tools & Platforms:** Git, GitHub, Postman, Render, Photoshop
+### 🔤 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,express,html,css" />
+</p>
+
+### 🛢 Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp" />
+</p>
+
+### 🧰 Tools & Dev Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,photoshop,vscode,render" />
+</p>
 
 ---
 
@@ -91,5 +97,5 @@
 </p>
 
 <p align="center">
-  <b><i>“Click, Cart, Conquer.”</i></b> — Thank you for visiting!
+  Thank you for visiting!
 </p>
