@@ -1,7 +1,7 @@
 <!-- Typing SVG Banner -->
 <h1 align="center">Prince Bhatt</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Freelancer;JavaScript+%7C+Java+%7C+React+%7C+MongoDB/SQL;Passionate+About+Building+Web+Apps&font=Fira+Code&center=true&width=600&height=45&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Freelancer;Tech+Consultant;JavaScript+%7C+ReactJS+%7C+Java+%7C+MongoDB/SQL;Passionate+About+Building+Web+Apps&font=Fira+Code&center=true&width=600&height=45&pause=1000" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=princebhatt03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
