@@ -86,9 +86,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=princebhatt03&show_icons=true&theme=radical" />
    <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=princebhatt03&theme=radical" />
-</p>    <br/>
+  <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhatt03&layout=compact&theme=github_dark" alt="Top Languages" />
     <br/>
+  </p>  
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=princebhatt03&theme=dracula&hide_border=true" alt="Contribution Graph"/> -->
   </p>
 </details>
