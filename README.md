@@ -14,7 +14,7 @@
 🎓 **Recent B.Tech Graduate in Internet of Things (IoT)** from **Samrat Ashok Technological Institute**  
 📍 Vidisha, Madhya Pradesh | **Graduated: June 2025**  
 💼 **Freelance Full Stack Web Developer** with **2+ years** of experience  
-🛠 Skilled in **JavaScript, React, Node.js, Express, MongoDB, SQL**  
+🛠 Skilled in **Java, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, SQL**  
 🌐 Developed and deployed dynamic web applications solving real-world problems  
 🚀 Passionate about building scalable software, exploring IoT systems, and delivering meaningful user experiences  
 
