@@ -52,7 +52,7 @@
 
 | Project Name     | Description                                                                 | Tech Stack                    | Live Link                                      |
 |------------------|-----------------------------------------------------------------------------|-------------------------------|------------------------------------------------|
-| QuickPick        | Fully dynamic e-commerce app with cart, payments, and admin dashboard       | MERN Stack                    | [Visit](https://quick-pick-5e6b.onrender.com)  |
+| UrbanKart        | Fully dynamic e-commerce app with cart, payments, and admin dashboard       | MERN Stack                    | [Visit](https://urbankart-ecommerce.onrender.com)  |
 | Pizzeria         | Real-time pizza delivery app with order tracking and admin panel            | Node.js, MongoDB, Express.js | [Visit](https://pizza-ria.onrender.com)        |
 | AUXES Website    | Official company website for AUXES IT during internship                     | React, Tailwind               | [Visit](https://api.auxes.in)                  |
 | Portfolio        | Interactive portfolio showcasing skills and experience                      | HTML, CSS, JS                 | [Visit](https://princebhatt03.github.io/Portfolio) |
