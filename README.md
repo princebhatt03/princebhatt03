@@ -22,10 +22,11 @@
 
 ## 💼 Work Experience
 
-| Company               | Role                    | Location          | Duration            | Description                                                                 |
-|-----------------------|-------------------------|-------------------|----------------------|-----------------------------------------------------------------------------|
-| AUXES IT Solutions    | Full Stack Developer Intern | Bhopal, India      | Dec 2024 – May 2025  | Built company website, worked with production APIs, debugging, and deployment |
-| Quasar Digital Solutions | Web Developer Intern     | Bhopal, India      | Feb 2023 – May 2023 | Built responsive UIs, worked on internal tools and Tailwind CSS based UI    |
+| # | Company                           | Role                         | Location        | Duration              | Description |
+|---|----------------------------------|------------------------------|-----------------|------------------------|-------------|
+| **1** | **Quasar Digital Solutions**      | Web Developer Intern         | Bhopal, India   | **Feb 2023 – May 2023** | Built responsive UIs, worked on internal tools, and used Tailwind CSS & Bootstrap to create clean, production-ready interfaces. |
+| **2** | **AUXES IT Solutions**           | Full Stack Developer Intern  | Bhopal, India   | **Dec 2024 – May 2025** | Developed the company website, integrated production APIs, fixed bugs, worked on backend logic, deployment pipelines, and optimized performance. |
+| **3** | **Moonglabs Technologies Pvt. Ltd.** | Backend Developer            | Remote | **Nov 2025 – Present** | Working as a backend developer using Node.js & TypeScript, configuring PostgreSQL, debugging services, and contributing to scalable backend architecture. |
 
 ---
 
